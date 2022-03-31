@@ -1,0 +1,9 @@
+body{
+    background-image:url("bg2.jpg");
+    font-family: 'Shizuru', cursive;
+}
+h1{
+    font-family: 'Shizuru', cursive;
+    border:5px ridge black;
+    box-shadow:5px 5px 5px grey;
+}
